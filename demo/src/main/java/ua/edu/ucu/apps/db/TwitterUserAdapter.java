@@ -16,7 +16,7 @@ public class TwitterUserAdapter implements User {
     public String getCountry() {
         return twitterUser.getCountry();
     }
-
+//
     @Override
     public long getLastActiveTime() {
         return twitterUser.getLastActiveTime();
